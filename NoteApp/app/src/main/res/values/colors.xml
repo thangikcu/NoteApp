@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorText">#ffffff</color>
+    <color name="bgListColor">#d1d1d1</color>
+    <color name="colorTextContentDialog">#8f8f8f</color>
+    <color name="colorTextTitle">#626262</color>
+    <color name="colorPick1">#2ec1d4</color>
+    <color name="colorPick2">#ecac57</color>
+    <color name="colorPick3">#df2828</color>
+    <color name="colorPick4">#16c216</color>
+    <color name="colorPick5">#ac1fe3</color>
+    <color name="colorBgButton">#137a3c</color>
+</resources>

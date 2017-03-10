@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Note</string>
+    <string name="ban_co_muon_xoa">Bạn có muốn xóa ?</string>
+    <string name="nhap_ghi_nho">Nhập ghi nhớ</string>
+    <string name="doi_teo">Đợi tẹo...</string>
+    <string name="xoa_that_bai">Xóa thất bại</string>
+    <string name="xoa_thanh_cong">Xóa thành công</string>
+    <string name="tai_du_lieu_that_bai">Tải dữ liệu thất bại</string>
+    <string name="them_moi_thanh_cong">Thêm mới thành công</string>
+    <string name="them_moi_that_bai">Thêm mới thất bại</string>
+    <string name="close">Close</string>
+    <string name="xac_nhan">Xác nhận</string>
+    <string name="cap_nhat">Cập nhật</string>
+    <string name="cap_nhat_thanh_cong">Cập nhật thành công</string>
+    <string name="cap_nhat_that_bai">Cập nhật thất bại</string>
+    <string name="tao_ghi_nho">Tạo ghi nhớ</string>
+    <string name="mau_nen">Màu nền</string>
+    <string name="noi_dung_ghi_nho">Nội dung ghi nhớ ...</string>
+</resources>
